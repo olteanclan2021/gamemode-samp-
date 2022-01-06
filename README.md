@@ -1,2 +1,2 @@
 # gamemode-samp-
-no
+nu e gata inca
